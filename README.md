@@ -49,3 +49,4 @@ Program ini adalah aplikasi manajemen data mahasiswa yang dibangun menggunakan p
 
 # Dokumentasi
 
+🎥 [Screenrecord disini kang](https://drive.google.com/file/d/1jIdYB4m2lqZJlAe8DsuVd-cAlJCt_w6L/view?usp=sharing)
